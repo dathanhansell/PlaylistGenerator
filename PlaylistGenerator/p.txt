@@ -1,0 +1,86 @@
+#Title;tempo;volume;happiness/energy;preference;notes
+2+2=5 ;7;6;4;7;Good starter or pivot
+Sit_Down._Stand_Up. ;7;5;4;6;Drawn out
+Sail_To_The_Moon. ;4;5;6;5;Drawn out
+We_Suck_Young_Blood. ;3;5;2;7;sad thom yorke
+There_There. ;4;6;6;6;
+I_Will. ;3;4;2;6;
+A_Punchup_At_A_Wedding. ;5;5;5;5;
+Scatterbrain. ;5;6;6;4;
+A_Wolf_At_The_Door. ;6;5;4;4;
+Pyramid_Song ;4;5;5;6;
+You_And_Whose_Army? ;1;2;2;9;sad thom yorke
+Knives_Out ;5;5;4;4;
+Morning_Bell/_Amnesiac ;3;4;4;5;
+Dollars_And_Cents ;4;4;4;6;
+Life_In_A_Glasshouse ;4;5;5;4;Discordant with horns
+Everything_In_Its_Right_Place ;5;5;4;7;Good starter or pivot
+Kid_A ;4;3;4;5;Good starter or pivot
+The_National_Anthem ;5;6;5;4;Discordant with horns
+How_To_Disappear_Completely ;4;4;2;7;Drawn out
+Treefingers ;3;2;6;7;instrumental amb
+Optimistic ;5;7;4;5;
+In_Limbo ;5;5;5;4;
+Idioteque ;6;6;5;6;cacophonous
+Morning_Bell ;6;4;4;6;
+Motion_Picture_Soundtrack ;3;4;6;7;
+Paranoid_Android ;6;7;7;8;
+Subterranean_Homesick_Alien ;6;5;6;9;
+Exit_Music_(for_a_Film) ;4;3;3;8;
+Let_Down ;6;5;6;8;
+Karma_Police ;4;6;4;9;
+Climbing_Up_the_Walls ;4;6;5;4;
+No_Surprises ;3;5;8;9;
+Lucky ;3;6;5;8;
+The_Tourist ;2;6;6;6
+Planet_Telex ;5;8;6;7;Good starter or pivot
+The_Bends ;5;8;6;5;
+High_And_Dry ;4;5;4;5;
+Fake_Plastic_Trees ;3;4;4;7;
+Nice_Dream ;5;3;6;7;
+Just ;6;7;6;6;
+My_Iron_Lung ;4;6;4;7;
+Bullet_Proof..._I_Wish_I_Was ;3;3;3;6;
+Black_Star ;5;6;6;6;
+Sulk ;5;6;7;4;
+Street_Spirit_[Fade_Out] ;6;5;6;5;
+Knights_Of_Cydonia ;5;9;8;9;
+TKOL(Rmx) ;4;3;3;8;instrumental amb
+New_Born ;6;7;7;8;
+Burn_The_Witch ;7;5;7;9;
+Daydreaming ;4;2;1;9;
+Decks_Dark ;4;5;6;9;
+Desert_Island_Disk ;5;4;5;5;
+Ful_Stop ;6;5;6;9;
+Glass_Eyes ;3;3;2;8;
+Identikit ;5;6;4;6;
+The_Numbers ;4;4;3;8;
+Present_Tense ;6;5;6;8;
+Tinker_Tailor... ;3;4;4;6;
+True_Love_Waits ;3;3;4;6;
+_15_Step ;8;5;8;6;
+Nude ;3;2;1;10;
+Weird_Fishes/Arpeggi ;6;5;7;5;
+All_I_Need ;4;4;5;4;
+Faust_Arp ;5;3;4;5;
+Reckoner ;5;3;6;6;
+House_Of_Cards ;5;4;5;4;
+Videotape ;4;4;4;5;
+Last_Living_Souls ;6;6;6;8;
+Kids_With_Guns ;4;5;4;9;Punchy
+Dirty_Harry ;6;5;7;8;
+Feel_Good_Inc. ;6;5;7;9;
+El_Manana ;6;6;3;9;
+All_Alone ;4;6;6;8;
+Fire_Coming_Out_Of_The_Monkeys_Head ;4;6;4;8;
+Dont_Get_Lost_In_Heaven ;5;4;4;8;
+Demon_Days ;4;6;8;7;
+Man_Research_(Clapper) ;4;4;3;7;
+White_Flag ;6;6;5;8;
+Empire_Ants ;5;4;3;9;
+On_Melancholy_Hill ;5;4;6;8;
+Plastic_Beach ;4;6;4;9;
+To_Binge ;6;6;4;9;
+Vein_Of_Stars ;4;6;7;9;
+The_Wizard_Turns_On... ;4;6;5;9;
+Eventually ;4;6;6;8;
